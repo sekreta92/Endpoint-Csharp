@@ -7,4 +7,5 @@ Editor di codice utilizzato: Visual Studio Code
 ## Prerequisiti
 
 [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+
 Estensioni C# per VScode
